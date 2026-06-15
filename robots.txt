@@ -1,1 +1,1 @@
-Sitemap: https://paulferrarilab.github.io/lab-website/sitemap.xml
+Sitemap: https://paulferrarimeg.github.io/lab-website/sitemap.xml
